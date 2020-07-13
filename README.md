@@ -1,5 +1,5 @@
 # WeatherAppProject-
-WeatherApp project was my final RMIT University course project, which is so simple to me,
+WeatherApp project was my final RMIT University course project,
 and I publish it to AppStore.
 
 I use `JSON` , `Nested Views`, `Tableview`
